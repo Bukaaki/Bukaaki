@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bukaaki
+- 👋 Hi, I’m @Hazard
 - 👀 I’m interested in learning HTML, CSS and JAVASCRIPT
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on evrything i can help and learn from
