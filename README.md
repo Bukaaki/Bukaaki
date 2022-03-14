@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning HTML, CSS and JAVASCRIPT
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on evrything i can help and learn from
-- 📫 How to reach me ...
+- 📫 You can reach me via Discod: rQHazard#7467
